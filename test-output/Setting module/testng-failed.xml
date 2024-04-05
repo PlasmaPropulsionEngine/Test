@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Setting module]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="test_components.Listener"/>
+  </listeners>
+  <test thread-count="5" name="Change Password test(failed)">
+    <classes>
+      <class name="tests.SettingTests">
+        <methods>
+          <include name="ChangePasswordTest"/>
+          <include name="closebrowser"/>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- tests.SettingTests -->
+    </classes>
+  </test> <!-- Change Password test(failed) -->
+</suite> <!-- Failed suite [Setting module] -->

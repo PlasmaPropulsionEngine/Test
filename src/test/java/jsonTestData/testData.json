@@ -1,0 +1,31 @@
+[
+{
+"firstname":"panda",
+"nickname" :"pandu",
+"phone":"1234567891",
+"email":"test@testing.com",
+"work":"testing",
+"description":"just testing"
+}
+,
+{
+
+"firstname":"harpic panda",
+"nickname" :"M",
+"phone":"14567897895",
+"email":"panda@testing.com",
+"work":"testing",
+"description":"just testing"
+}
+,
+{
+
+"firstname":"red panda",
+"nickname" :"red",
+"phone":"000111111",
+"email":"red@testing.com",
+"work":"testing",
+"description":"just testing"
+}	
+
+]
